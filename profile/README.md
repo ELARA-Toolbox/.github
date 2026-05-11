@@ -7,7 +7,7 @@
 
 ## Overview
 
-**Elara** is a MATLAB toolbox for efficient manipulation and control of flexible robotic systems using Lie-group theory and algorithms. This toolbox provides a comprehensive collection of algorithms and computational tools designed to simplify the analysis and control of robots with flexible dynamics, including flexible manipulators, tendon-driven systems, and underactuated mechanisms.
+**Elara** is a MATLAB toolbox for efficient simulation and integration of flexible robotic systems using Lie-group theory and algorithms. This toolbox provides a comprehensive collection of algorithms and computational tools designed to simplify the analysis and control of robots with flexible dynamics, including flexible manipulators, tendon-driven systems, and underactuated mechanisms.
 
 ## Purpose
 
