@@ -1,10 +1,9 @@
 <div align="center">
-  <img src=".assets/elara_logo.png" alt="Elara Logo" height="56"/>
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" height="28"/>
-  <img src="https://img.shields.io/badge/MATLAB-R2025b%2B-blue" alt="MATLAB R2025b+" height="28"/>
+  <img src=".assets/banner.png" alt="Elara: Efficient Lie-group Algorithms for Flexible Robotic Analysis and Control" style="width:100%;height:auto;max-width:100%;"/>
 </div>
 
-# Elara: Efficient Lie-group Algorithms for Flexible Robotic Analysis and Control
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![MATLAB Version](https://img.shields.io/badge/MATLAB-R2025b%2B-blue)
 
 ## Overview
 
