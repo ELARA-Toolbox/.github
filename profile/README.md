@@ -29,18 +29,33 @@ The current implementation is available in MATLAB (verified in R2025b) in the [E
 If you use the Elara toolbox in your research, please cite:
 
 **BibTeX:**
+
 ```bibtex
-@software{elara_toolbox,
-  author = {Herrmann, Maximilian},
-  title = {Elara: Efficient Lie-Group Algorithms for Flexible Robotic Analysis and Control},
-  year = {2026},
-  url = {https://github.com/ELARA-Toolbox},
-  version = {0.1}
+@article{HK24,
+  title = {Relative-Kinematic Formulation of Geometrically Exact Beam Dynamics Based on {{Lie}} Group Variational Integrators},
+  author = {Herrmann, Maximilian and Kotyczka, Paul},
+  year = 2024,
+  month = dec,
+  journal = {Computer Methods in Applied Mechanics and Engineering},
+  volume = {432},
+  pages = {117367},
+  issn = {00457825},
+  doi = {10.1016/j.cma.2024.117367},
 }
+@inproceedings{HPK26,
+  title = {Discrete {{Geometric Modeling}} and {{Extended State Estimation}} of {{Continuum Robots}}},
+  booktitle = {IFAC World Congress},
+  author = {Herrmann, Maximilian and Pfeiffer, Leander and Kotyczka, Paul},
+  year = 2026,
+  address = {Busan},
+  }
 ```
 
 **APA:**
-> Herrmann, M. (2026). *Elara: Efficient Lie-group algorithms for flexible robotic analysis and control* [Software]. Retrieved from https://github.com/ELARA-Toolbox
+
+> Herrmann, M., & Kotyczka, P. (2024). Relative-kinematic formulation of geometrically exact beam dynamics based on Lie group variational integrators. Computer Methods in Applied Mechanics and Engineering, 432, 117367. https://doi.org/10.1016/j.cma.2024.117367
+
+> Herrmann, M., Pfeiffer, L., & Kotyczka, P. (2026). Discrete Geometric Modeling and Extended State Estimation of Continuum Robots. IFAC World Congress.
 
 ## License
 
@@ -50,10 +65,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - Maximilian Herrmann [TUM, Chair of Automatic Control]
 - Leander Pfeiffer [TUM, Chair of Automatic Control]
-
-## Acknowledgments
-
-This toolbox builds on the theoretical foundations of differential geometry and Lie group theory applied to robotics. Special thanks to the robotics and control communities for inspiration and feedback.
 
 ## Contact & Support
 
