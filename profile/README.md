@@ -2,8 +2,8 @@
   <img src=".assets/banner.png" alt="Elara: Efficient Lie-group Algorithms for Flexible Robotic Analysis and Control" style="width:100%;height:auto;max-width:100%;"/>
 </div>
 
-[![View Elara Toolbox on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/) 
-[![GitHub top language](https://img.shields.io/github/languages/top/ELARA-Toolbox/ELARA)](https://matlab.mathworks.com/)  
+[![View Elara Toolbox on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/183990-elara-flexible-robot-simulation-and-control-toolbox) 
+[![GitHub top language](https://img.shields.io/github/languages/top/ELARA-Toolbox/ELARA)](https://matlab.mathworks.com/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ELARA-Toolbox/ELARA?style=social)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![MATLAB Version](https://img.shields.io/badge/MATLAB-R2025b%2B-blue)
